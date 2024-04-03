@@ -1,0 +1,41 @@
+.cnt{
+    background-color: #CFB095;
+    height: 500px;
+    width: 100%;
+}
+#cn{
+    color: rgb(118, 66, 78);
+    padding-left: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+.con{
+    color: rgb(118, 66, 78);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 550px;
+    height: 500px;
+    width: 500px;
+    border: 2px solid rgb(118, 66, 78);
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.s{
+    color: white;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(118, 66, 78);
+    border: 2px solid rgb(118, 66, 78);
+    border-radius: 5px;
+    margin-top: 50px;
+    width: 200px;
+    height: 40px;
+    box-shadow: 5px 2px 5px 2px rgb(118, 66, 78);
+}
+.n1{
+    margin-top: 50px;
+    margin-left: 40px;
+    height: 40px;
+    width: 250px;
+}
